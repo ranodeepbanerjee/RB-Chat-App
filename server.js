@@ -14,7 +14,7 @@ app.get('/',(req,res)=>{
 
 // Socket.io Setup
 
-const io=require("socket.io")(server);
+const io=require("http://rbchat.netlify.app/socket.io/socket.io.js")(server);
 var users={};
 
 io.on("connection",(socket)=>{
