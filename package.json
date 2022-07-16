@@ -1,0 +1,18 @@
+{
+  "name": "rb-chat-better",
+  "version": "1.0.0",
+  "description": "RB Chat Application",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "author": "Ranodeep Banerjee",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "socket.io": "^4.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
