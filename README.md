@@ -18,14 +18,9 @@
 * If someone sends the message, broadcast it to other people.
 * If someone leaves the chat, let others know.
 
-## Process to run the app ##
-1. run nodemon nodeserver/index.js
-2. Install the extension 'live server' for Vs Code. 
-3. Extension Id - ritwickdey.liveserver
-4. After the extension gets installed navigate to index.html and open it to edit.
-5. Right click anywhere in the file index.html and from the menu that appears select Open with Live server
-6. A instance of the application will appear in the browser.
-7. Copy the url from the address bar and open another instance in another tab or in incognito or on another browser.
+## Link to the app ##
+
+https://rb-chatapplication.herokuapp.com/
 
 ## User 1 : Ranodeep Banerjee ##
 <img width="959" alt="Rano's end" src="https://user-images.githubusercontent.com/63450189/179361686-656f4d22-c6ad-49f1-9518-07efc4297842.png">
